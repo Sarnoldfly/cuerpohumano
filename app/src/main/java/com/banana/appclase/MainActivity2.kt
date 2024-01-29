@@ -14,6 +14,7 @@ class MainActivity2 : AppCompatActivity() {
         if (imageResId != 0 ) {
             imageView.setImageResource(imageResId)
 
+
         }
     }
 }
